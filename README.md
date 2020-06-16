@@ -1,2 +1,2 @@
-# Monster-Maze
-A maze where a monster has to eat stuff created using JS and VSC
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
